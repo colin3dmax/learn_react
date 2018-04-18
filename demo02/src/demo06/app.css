@@ -1,0 +1,14 @@
+.title{
+    color:dodgerblue;
+}
+.counter{
+    border:solid 2px dodgerblue;
+    padding:10px;
+    border-radius: 10px;
+    color:dodgerblue;
+    text-align: center;
+    font-weight: bold;
+    width:100px;
+    display: inline-block;
+    margin:5px;
+}
